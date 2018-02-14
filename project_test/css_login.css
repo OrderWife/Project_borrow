@@ -1,0 +1,51 @@
+body {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.w3-example {
+
+    background-color: #DCDCDC;
+    padding: 0.01em 16px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
+
+.w3-code {
+    width: auto;
+    background-color: #fff;
+    padding: 8px 12px;
+    word-wrap: break-word;
+}
+
+.w3-section, .w3-code {
+    margin-top: 16px!important;
+    margin-bottom: 16px!important;
+}
+
+h3,h2 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+select,input[type=text1],input[type=email],input[type=password]{
+    width: 100%;
+    padding: 6px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btt-save{
+    background-color: #5F9EA0; 
+    border: none;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
